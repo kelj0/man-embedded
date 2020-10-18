@@ -1,6 +1,13 @@
 # man-embedded
 Personal notes while I am grinding embedded dev
 
+##### resources
+```
+https://news.ycombinator.com/item?id=21592052
+https://www.zippia.com/embedded-software-engineer-jobs/
+https://github.com/vazeri/Embedded-Engineering-RoadMap-2018
+```
+![roadmap]("./res/roadmap.png")
 
 
 #### Projects
